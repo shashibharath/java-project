@@ -17,7 +17,7 @@ class B{
 
 	public void main(String[] args)
 	{
-	System.out.println("jello");
+	System.out.println("hello");
 	}
 }
 
